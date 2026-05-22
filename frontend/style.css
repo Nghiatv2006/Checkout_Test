@@ -1,0 +1,57 @@
+body {
+
+    font-family: Arial;
+
+    padding: 20px;
+
+}
+
+.product {
+
+    border: 1px solid #ccc;
+
+    padding: 15px;
+
+    margin-bottom: 15px;
+
+    border-radius: 10px;
+
+}
+
+.qty-box {
+
+    display: flex;
+
+    align-items: center;
+
+    gap: 10px;
+
+}
+
+button {
+
+    padding: 10px 15px;
+
+    cursor: pointer;
+
+}
+
+.popup {
+
+    position: fixed;
+
+    top: 20px;
+
+    right: 20px;
+
+    background: green;
+
+    color: white;
+
+    padding: 20px;
+
+    border-radius: 10px;
+
+    font-size: 18px;
+
+}
